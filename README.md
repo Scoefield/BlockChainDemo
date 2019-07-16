@@ -9,4 +9,5 @@ step2: cd BlockChainDemo/rpc
 
 step3: go run Server.go or go build Server.go then ./Server
 
-step4: request the url: http://localhost:8888/blockchain/get or http://localhost:8888/blockchain/write?data=Send%201%20BTC%20to%20Lucy
+step4: request the url: http://localhost:8888/blockchain/get or
+http://localhost:8888/blockchain/write?data=Send%201%20BTC%20to%20Lucy
